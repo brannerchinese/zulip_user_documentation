@@ -8,7 +8,7 @@ Most people use currently Zulip on the Web. There are also versions for Android/
 
     2. There are three panes in your browser window. 
     
-       The middle one, the "**message table**,  is the stream of messages.
+       The middle one, the "**message table**",  is the stream of messages.
        
        To its left is the "**left sidebar**", showing "filters" or "views" for different kinds of messages, and below it a menu of streams you are subscribed to:
        
