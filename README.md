@@ -56,27 +56,27 @@ Most people use currently Zulip on the Web. There are also versions for Android/
 
     2. **Editing past messages**
 
-       3. If you want to edit a past message of your own after it has been posted, make sure the mouse is pointing to that message. You should see a little pencil ![pencil](images/pencil.png) at the end of the message and a "down-chevron" ![down chevron](images/down_chevron.png) near the upper right corner of the message. Clicking either one of these will give you editing options.
+       3. If you want to edit a past message of your own after it has been posted, make sure the mouse is over that message. You should see a little pencil ![pencil](images/pencil.png) at the end of the message and a "down-chevron" ![down chevron](images/down_chevron.png) near the upper right corner of the message. Clicking either one of these will give you editing options.
 
        3. If you completely delete the text of a message, you won't be able to save it — so try putting a dash or "(deleted)" in as the message text. ~the fact that there was once a message there will still be evident, and the time stamp of the original posting date and time will still be shown.
 
  1. **Other common questions**
 
-    2. **Searching**: Zulip searches incrementally as you type, but will only match your typing at the beginning of a stream name. So typing "el" won't bring up "Help", but "He" will.
+    2. **Searching**: Zulip searches incrementally (and case-independent) as you type, but will only match your typing at the beginning of a stream name. So typing _el_ won't bring up "Help", but _he_ will.
 
-    2. **Date of a message**: If you mouse over the time stamp of a message (upper right corner of the message), you'll see a fuller date-time stamp and time zeon.
+    2. **Date of a message**: If you "mouse over" the time stamp of a message (upper right corner of the message), you'll see a fuller date-time stamp and time zone.
 
     2. **Show only messages in a particular stream**: This is called "narrowing" to a stream. The simplest way is by clicking on the stream's name in the left sidebar.
 
     2. **Show only messages in a particular topic**: Click on the topic, on a message containing it in the message table. You can do the same thing by clicking on a stream in the left sidebar to open a list of recent topics, and then click on a topic there. Only the most topics are listed, though; if you want to find an older topic, you may have to use the search box (above the message table) or scroll back in time by hand.
 
-    2. **Show only messages with a particualr user**: Click on the user's name in the right sidebar and your PM history will appear. If you have had group-PM conversations, they will only show up if you "narrow to" private messages with all participants — narrowing to just one user will not show group PMs including that user.
+    2. **Show only messages with a particular user**: Click on the user's name in the right sidebar and your PM history will appear. If you have had group-PM conversations, they will only show up if you "narrow to" private messages with all participants — narrowing to just one user will not show group PMs including that user.
 
-    2. **What keyboard shortcuts are available?** Go to the cog (![cog](images/cog.png)) in the upper right corner of the right sidebar and choose "Keyboard shortcuts" from the drop-down menu.
+    2. **Keyboard shortcuts** Go to the cog (![cog](images/cog.png)) in the upper right corner of the right sidebar and choose "Keyboard shortcuts" from the drop-down menu.
 
-    2. **What formatting is available for my message?** Zulip uses a subset of [GitHub Flavored Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables) (GFM), To see the current subset, go to the cog (![cog](images/cog.png)) in the upper right corner of the right sidebar and choose "Message formatting" from the drop-down menu.
+    2. **Message formatting** Zulip uses a subset of [GitHub Flavored Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables) (GFM), To see the current subset, go to the cog (![cog](images/cog.png)) in the upper right corner of the right sidebar and choose "Message formatting" from the drop-down menu.
 
-    2. **How do you search for past messages?** It is possible to do limited searches on past messages. Some special features and limitations:
+    2. **Searching for past messages** It is possible to do limited searches on past messages. Some special features and limitations:
     
        3. If there are many hits, only the most recent ones are returned.
        
@@ -103,7 +103,7 @@ Most people use currently Zulip on the Web. There are also versions for Android/
 
        If you have messaged multiple individual users, their names will appear at the bottom of the right sidebar. In that case, a pale green circle (![pale green circle](images/pale_green_circle.png)) means that some are recently but not currently active, while others are state unknown. A regular green circle (![green circle](images/green_circle.png)) means they are all at least recently active.
 
-    2. **Can I interact with Zulip by email?** Yes. You can receive all activity from all streams, or just some streams, or just messages in which you were mentioned, by playing with the Settings — go to the cog (![cog](images/cog.png)) in the upper right corner of the right sidebar and choose "Settings" there. You can also post to a stream by email — the Manage Streams pane shows you the email address to use for any particular stream.
+    2. **Interacting with Zulip by email** You can receive all activity from all streams, or just some streams, or just messages in which you were mentioned, by playing with the Settings — go to the cog (![cog](images/cog.png)) in the upper right corner of the right sidebar and choose "Settings" there. You can also post to a stream by email — the Manage Streams pane shows you the email address to use for any particular stream.
 
     2. **Customization**: 
     
@@ -125,6 +125,6 @@ Most people use currently Zulip on the Web. There are also versions for Android/
 
           You can leave the Streams pane by clicking on Home near the top of the left sidebar.
 
-       3. Other customizations are available in the Settings pane. Please experiment with them.
+       3. **Other customizations** are available in the Settings pane. Please experiment with them.
 
 [end]
