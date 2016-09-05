@@ -95,7 +95,7 @@ At the bottom of your screen, choose whether to post to a stream or to individua
 
  * If you completely delete the text of a message, you won't be able to save it — so try putting a dash or "(deleted)" in as the message text. The fact that there was once a message there will still be evident, and the time stamp of the original posting date and time will still be shown.
     
- * After you have edited a message, `(EDITED)` next to your name.
+ * After you have edited a message, `(EDITED)` appears over the message and to the right of your name.
     
  * Editing topic titles is discussed in a separate answer, **[below](#editing-a-topic-title)**.
  
