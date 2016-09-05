@@ -36,7 +36,7 @@ One Zulip account, associated with a particular organization, is known as a "**r
     
  * If your browser  window is narrow, you'll see only the message table, or the message table and the left sidebar but not the right sidebar.
  
-   **[Go back to "The Zulip browser window"](#the-zulip-browser-window)** | **[Go back to "Table of contents"](#table-of-contents)**
+**[Go back to "The Zulip browser window"](#the-zulip-browser-window)** | **[Go back to "Table of contents"](#table-of-contents)**
 
 ---
 
@@ -59,7 +59,7 @@ At the bottom of your screen, choose whether to post to a stream or to individua
     
  1. Enter your message.
  
- **[Go back to "Posting and replying"](#posting-and-replying)** | **[Go back to "Table of contents"](#table-of-contents)**
+**[Go back to "Posting and replying"](#posting-and-replying)** | **[Go back to "Table of contents"](#table-of-contents)**
 
 ### Posting and replying to individual users ("PM": private message) ![Post to user](images/post_to_user.png)
 
@@ -71,7 +71,7 @@ At the bottom of your screen, choose whether to post to a stream or to individua
     
  * If you're bashful about using the pronoun "I", you can get your own registered name to appear boldfaced in a message by entering `/me`. At present it has to be the first thing on a line, and followed by at least one non-space character. Some people find it easier to say things like `/me is puzzled` or `/me nods` than to use a massively freighted word like "I".
  
- **[Go back to "Posting and replying"](#posting-and-replying)** | **[Go back to "Table of contents"](#table-of-contents)**
+**[Go back to "Posting and replying"](#posting-and-replying)** | **[Go back to "Table of contents"](#table-of-contents)**
 
 ### Some facts about messages
 
@@ -87,7 +87,7 @@ At the bottom of your screen, choose whether to post to a stream or to individua
 
  * If you want greater separation of your paragraphs, enter a non-breaking space (option-space on Macintosh) on a line alone between other paragraphs.
  
- **[Go back to "Posting and replying"](#posting-and-replying)** | **[Go back to "Table of contents"](#table-of-contents)**
+**[Go back to "Posting and replying"](#posting-and-replying)** | **[Go back to "Table of contents"](#table-of-contents)**
 
 ### Editing past messages
 
@@ -99,7 +99,7 @@ At the bottom of your screen, choose whether to post to a stream or to individua
     
  * Editing topic titles is discussed in a separate answer, **[below](#editing-a-topic-title)**.
  
- **[Go back to "Posting and replying"](#posting-and-replying)** | **[Go back to "Table of contents"](#table-of-contents)**
+**[Go back to "Posting and replying"](#posting-and-replying)** | **[Go back to "Table of contents"](#table-of-contents)**
 
 ---
 
@@ -144,7 +144,7 @@ If you "mouse over" the time stamp of a message (upper right corner of the messa
 
    Click on the user's name in the right sidebar and your PM history will appear. If you have had group-PM conversations, they will only show up if you "narrow to" private messages with all participants — narrowing to just one user will not show group PMs including that user.
    
- **[Go back to "Other common questions"](#other-common-questions)** | **[Go back to "Table of contents"](#table-of-contents)**
+**[Go back to "Other common questions"](#other-common-questions)** | **[Go back to "Table of contents"](#table-of-contents)**
 
 ### Changing the title of a topic or stream
 
@@ -156,7 +156,7 @@ In the end, this is a question of realm culture.
 
  * **Streams**: If a stream has to be divided, it is best if the original stream name be retired, otherwise it may prove hard to keep the separated-out subject from reappearing in the original stream. This is is an issue for administrators to watch for.
  
- **[Go back to "Other common questions"](#other-common-questions)** | **[Go back to "Table of contents"](#table-of-contents)**
+**[Go back to "Other common questions"](#other-common-questions)** | **[Go back to "Table of contents"](#table-of-contents)**
 
 ### Editing a topic title
 
@@ -166,7 +166,7 @@ As long you have contributed a message to that topic, you can edit the topic tit
  * Change later messages to this topic
  * Change previous and later messages to this topic
  
- **[Go back to "Other common questions"](#other-common-questions)** | **[Go back to "Table of contents"](#table-of-contents)**
+**[Go back to "Other common questions"](#other-common-questions)** | **[Go back to "Table of contents"](#table-of-contents)**
 
 ### Keyboard shortcuts
 
@@ -196,7 +196,7 @@ It is possible to do limited searches on past messages. Some special features an
     
  * To see a list of search operators, go to the cog (![cog](images/cog.png)) in the upper right corner of the right sidebar and choose "Search help" from the drop-down menu.
  
- **[Go back to "Other common questions"](#other-common-questions)** | **[Go back to "Table of contents"](#table-of-contents)**
+**[Go back to "Other common questions"](#other-common-questions)** | **[Go back to "Table of contents"](#table-of-contents)**
 
 ### User status
 
@@ -212,7 +212,7 @@ It is possible to do limited searches on past messages. Some special features an
 
  If you have messaged multiple individual users, their names will appear at the bottom of the right sidebar. In that case, a pale green circle (![pale green circle](images/pale_green_circle.png)) means that some are recently but not currently active, while others are state unknown. A regular green circle (![green circle](images/green_circle.png)) means they are all at least recently active. 
  
- **[Go back to "Other common questions"](#other-common-questions)** | **[Go back to "Table of contents"](#table-of-contents)**
+**[Go back to "Other common questions"](#other-common-questions)** | **[Go back to "Table of contents"](#table-of-contents)**
 
 ### Interacting with Zulip by email
 
@@ -242,6 +242,6 @@ You can receive all activity from all streams, or just some streams, or just mes
 
  * **Other customizations** are available in the Settings pane. Please experiment with them.
  
- **[Go back to "Other common questions"](#other-common-questions)** | **[Go back to "Table of contents"](#table-of-contents)**
+**[Go back to "Other common questions"](#other-common-questions)** | **[Go back to "Table of contents"](#table-of-contents)**
 
 [end]
