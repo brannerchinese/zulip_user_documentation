@@ -51,13 +51,13 @@ At the bottom of your screen, choose whether to post to a stream or to individua
 
 ### Posting and replying to a stream
     
- * Click "New stream message" at the bottom of your screen (or select a stream from the list on the left side of your screen). ![Post to stream](images/post_to_stream.png)
+ 1. Click "New stream message" at the bottom of your screen (or select a stream from the list on the left side of your screen). ![Post to stream](images/post_to_stream.png)
     
- * Enter a stream name, or the beginning of one. Private ("invite-only") streams show a lock next to the name.
+ 1. Enter a stream name, or the beginning of one. Private ("invite-only") streams show a lock next to the name.
     
- * Enter a topic name — we recommend keeping them brief, and they are truncated after 50 characters.
+ 1. Enter a topic name — we recommend keeping them brief, and they are truncated after 50 characters.
     
- * Enter your message.
+ 1. Enter your message.
  
  **[Go back to "Posting and replying"](#posting-and-replying)** | **[Go back to "Table of contents"](#table-of-contents)**
 
