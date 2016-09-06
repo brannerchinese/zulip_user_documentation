@@ -117,6 +117,7 @@ At the bottom of your screen, choose whether to post to a stream or to individua
 **[Search for past messages](#searching-for-past-messages)** | 
 **[User status](#user-status)** | 
 **[Interact with Zulip by email](#interacting-with-zulip-by-email)** | 
+**[Emoji](#emoji)** | 
 **[Customization](#customization)** 
 
 
@@ -221,6 +222,20 @@ It is possible to do limited searches on past messages. Some special features an
 ### Interacting with Zulip by email
 
 You can receive all activity from all streams, or just some streams, or just messages in which you were mentioned, by playing with the Settings — go to the cog (![cog](images/cog.png)) in the upper right corner of the right sidebar and choose “Settings” there. You can also post to a stream by email — the Manage Streams pane shows you the email address to use for any particular stream.
+
+**[Go back to “Other common questions”](#other-common-questions)** | **[Go back to “Table of contents”](#table-of-contents)**
+
+### Emoji
+
+ * **Adding emoji to a message**. There are two ways to do this:
+ 
+   * Zulip fully supports Unicode, so if you find any emoji you like and paste them into your message (👛🚹🏪🎿), they will be accepted. You can browse the [Unicode Consortium's full list of emoji](http://unicode.org/emoji/charts/full-emoji-list.html), although our emoji images may differ from what you see there.
+   
+   * Zulip also lets you enter emoji by name, using the format `:name:`. So sending `:octopus: :hellokitty: :revolving_hearts:` will produce ![octopus](images/octopus.png)![hellokitty](images/hellokitty.png)![revolving_hearts](images/revolving_hearts.png). You can find emoji that are accessible this way by typing a colon and two or more letters of the alphabet — a pop-up menu will appear showing the first five emoji-names containing the letters you typed (sequentially).
+   
+   In addition, an emoji pop-over menu is planned, to let you choose them by eye.
+
+ * **What if I'd rather not see emoji in other people's messages?**. Sorry, this isn't yet supported.
 
 **[Go back to “Other common questions”](#other-common-questions)** | **[Go back to “Table of contents”](#table-of-contents)**
 
