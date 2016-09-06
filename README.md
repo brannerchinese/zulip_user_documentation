@@ -162,7 +162,7 @@ In the end, this is a question of community culture within your organization. Bu
 
 ### Editing a topic title
 
-As long you have contributed a message to some topic, you can edit the topic title. Go to one of your own messages in that topic and follow **[the instructions for editing it)(#editing-past-messages)**. Notice that the topic title is now editable, too. You will be offered the chance to change the topic in one of three ways: 
+As long you have contributed a message to some topic, you can edit the topic title. Go to one of your own messages in that topic and follow **[the instructions for editing it](#editing-past-messages)**. Notice that the topic title is now editable, too. You will be offered the chance to change the topic in one of three ways: 
     
  * Change only this message topic
  * Change later messages to this topic
