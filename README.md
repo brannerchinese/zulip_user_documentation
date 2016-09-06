@@ -168,7 +168,7 @@ As long you have contributed a message to some topic, you can edit the topic tit
  * Change later messages to this topic
  * Change previous and later messages to this topic
 
-Your edits will be applied if you "save" the message, even if the body of the message is unchanged.
+Your edits will be applied if you “save” the message, even if the body of the message is unchanged.
 
 **[Go back to “Other common questions”](#other-common-questions)** | **[Go back to “Table of contents”](#table-of-contents)**
 
