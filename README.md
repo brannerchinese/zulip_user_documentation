@@ -231,7 +231,7 @@ You can receive all activity from all streams, or just some streams, or just mes
  
    * Zulip fully supports Unicode, so if you find any emoji you like and paste them into your message (👛🚹🏪🎿), they will be accepted. You can browse the [Unicode Consortium's full list of emoji](http://unicode.org/emoji/charts/full-emoji-list.html), although our emoji images may differ from what you see there.
    
-   * Zulip also lets you enter emoji by name, using the format `:name:`. So sending `:octopus: :hellokitty: :revolving_hearts:` will produce ![octopus](images/octopus.png)![hellokitty](images/hellokitty.png)![revolving_hearts](images/revolving_hearts.png). You can find emoji that are accessible this way by typing a colon and two or more letters of the alphabet — a pop-up menu will appear showing the first five emoji-names containing the letters you typed (sequentially).
+   * Zulip also lets you enter emoji by name, using the format `:name:`. So sending `:octopus: :hellokitty: :revolving_hearts:` will produce ![octopus](images/octopus.png)![hellokitty](images/hellokitty.png)![revolving_hearts](images/revolving_hearts.png). You can find emoji that are accessible this way by typing a colon and two or more letters of the alphabet — a pop-up menu will appear showing the first five emoji-names containing the letters you typed (consecutively).
    
    In addition, an emoji pop-over menu is planned, to let you choose them by eye.
 
