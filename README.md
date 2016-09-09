@@ -6,7 +6,7 @@
 
 Zulip is a chat app. Its most distinctive characteristic is that conversation among a group of people can be divided according to subject “**streams**” and further subdivided into “**topics**”, so much finer-grained conversations are possible than with IRC or other chat tools. 
 
-Most people use currently Zulip on the Web. There are also versions for Android/iOS, and for Mac/Linux/Windows, as well as a cross-platform version and a version for Platform 9. See https://zulip.tabbott.net/apps for more information. 
+Most people use Zulip on the Web. There are also mobile apps for Android/iOS, and desktop apps for Mac/Linux/Windows, as well as a cross-platform version and a version for Platform 9. See https://zulip.tabbott.net/apps for more information. 
 
 One Zulip account, associated with a particular organization, is known as a “**realm**”. 
 
