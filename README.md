@@ -67,7 +67,7 @@ At the bottom of your screen, choose whether to post to a stream or to individua
 
  * You can send a message to multiple users at once, by separating their email addresses with a comma. Each recipient will see all the other recipients. For several days, the list of recipients will appear under “GROUP PMs” at the lower right corner of your screen.
 
- * You can ping other users with a particular stream-message from within the body of the message itself. Type `@` and the beginning of their email address or one of their names, and the system will offer you tab-completions. The completed ping will look something like this: `@**name@email.address**`, and it will appear as **@name** in your posted message.
+ * You can ping ("**@mention**") other users with a particular stream-message from within the body of the message itself. Type `@` and the beginning of their email address or one of their names, and the system will offer you tab-completions. The completed @mention will look something like this: `@**name@email.address**`, and it will appear as **@name** in your posted message.
     
  * If you’re bashful about using the pronoun “I”, you can get your own registered name to appear boldfaced in a message by entering `/me`. At present it has to be the first thing on a line, and followed by at least one non-space character. Some people find it easier to say things like `/me is puzzled` or `/me nods` than to use a massively freighted word like “I”.
  
