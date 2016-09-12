@@ -112,9 +112,9 @@ At the bottom of your screen, choose whether to post to a stream or to individua
 **[Searching](#searching)** | 
 **[Date of a message](#date-of-a-message)** | 
 **[Show only particular messages](#show-only-particular-messages)** |
+**[Keyboard shortcuts](#keyboard-shortcuts)** | 
 **[Change topic title or stream name](#changing-the-title-of-a-topic-or-stream)** | 
 **[Edit topic titles](#editing-a-topic-title)** | 
-**[Keyboard shortcuts](#keyboard-shortcuts)** | 
 **[Message formatting](#message-formatting)** | 
 **[Search for past messages](#searching-for-past-messages)** | 
 **[User status](#user-status)** | 
@@ -151,6 +151,12 @@ If you “mouse over” the time stamp of a message (upper right corner of the m
    
 **[Go back to “Other common questions”](#other-common-questions)** | **[Go back to “Table of contents”](#table-of-contents)**
 
+### Keyboard shortcuts
+
+Go to the cog (![cog](images/cog.png)) in the upper right corner of the right sidebar and choose “Keyboard shortcuts” from the drop-down menu.
+
+**[Go back to “Other common questions”](#other-common-questions)** | **[Go back to “Table of contents”](#table-of-contents)**
+
 ### Changing the title of a topic or stream
 
 If discussion drifts, at what point should the title of a topic or stream be changed?
@@ -172,12 +178,6 @@ As long you have contributed a message to some topic, you can edit the topic tit
  * Change previous and later messages to this topic
 
 Your edits will be applied if you “save” the message, even if the body of the message is unchanged.
-
-**[Go back to “Other common questions”](#other-common-questions)** | **[Go back to “Table of contents”](#table-of-contents)**
-
-### Keyboard shortcuts
-
-Go to the cog (![cog](images/cog.png)) in the upper right corner of the right sidebar and choose “Keyboard shortcuts” from the drop-down menu.
 
 **[Go back to “Other common questions”](#other-common-questions)** | **[Go back to “Table of contents”](#table-of-contents)**
 
