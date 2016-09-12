@@ -50,8 +50,10 @@ One Zulip account, associated with a particular organization, is known as a “*
 At the bottom of your screen, choose whether to post to a stream or to individual users. ![New message](images/new_message.png)
 
 ### Posting and replying to a stream
-    
- 1. Click “New stream message” at the bottom of your screen (or select a stream from the list on the left side of your screen). ![Post to stream](images/post_to_stream.png)
+
+ 1. If you click on a message, the default action is to open a text-box for you to enter a new message.
+
+ 1. If you would rather post something new, click “New stream message” at the bottom of your screen (or select a stream from the list on the left side of your screen). ![Post to stream](images/post_to_stream.png)
     
  1. Enter a stream name, or the beginning of one. Private (“invite-only”) streams show a lock next to the name.
     
