@@ -121,7 +121,7 @@ At the bottom of your screen, choose whether to post to a stream or to individua
 **[Interact with Zulip by email](#interacting-with-zulip-by-email)** | 
 **[Emoji](#emoji)** | 
 **[Customization](#customization)**  |
-**[Muting vs. unsubscribing](#muting-a-stream-vs.-unsubscribing-from-it)** 
+**[Muting vs. unsubscribing](#muting-a-stream-vs-unsubscribing-from-it)** 
 
 
 ### Searching
