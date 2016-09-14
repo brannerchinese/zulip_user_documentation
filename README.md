@@ -120,7 +120,8 @@ At the bottom of your screen, choose whether to post to a stream or to individua
 **[User status](#user-status)** | 
 **[Interact with Zulip by email](#interacting-with-zulip-by-email)** | 
 **[Emoji](#emoji)** | 
-**[Customization](#customization)** 
+**[Customization](#customization)**  |
+**[Muting vs. unsubscribing](#muting-a-stream-vs.-unsubscribing-from-it)** 
 
 
 ### Searching
@@ -263,6 +264,16 @@ You can receive all activity from all streams, or just some streams, or just mes
 
  * **Other customizations** are available in the Settings pane. Please experiment with them.
  
+**[Go back to “Other common questions”](#other-common-questions)** | **[Go back to “Table of contents”](#table-of-contents)**
+
+### Muting a stream vs. unsubscribing from it
+
+When a stream is muted you can still see (greyed out) how many unread messages are there, and you can still read it and post to it while it's muted — useful if you only want to read the stream on demand but not have its messages populate your main Home message table.
+
+And since subscribed-to streams are now sorted, with recently active streams at the top of the list and inactive streams below, your recently active but muted streams will be interlarded among your unmuted streams, saving space.
+
+You can't do any of that with a unsubscribed stream.
+
 **[Go back to “Other common questions”](#other-common-questions)** | **[Go back to “Table of contents”](#table-of-contents)**
 
 [end]
