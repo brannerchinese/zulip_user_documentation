@@ -281,27 +281,27 @@ You can't do any of that with a unsubscribed stream.
 
 ## Special terms used with Zulip
 
- * **@mention**: see **mention**
- * **/me**: see **me**
- * **customization**: changing Zulip's settings so that it behaves in ways you prefer
- * **emoji**: small image used in chat messages, for terse non-verbal expression or cuteness; loanword into English from Japanese 絵文字
- * **filter**: one of the options for viewing different kinds of messages, listed in the upper left corner of the window: Home, Private messages, Starred messages, @-mentions. Also called a "view"
- * **group PM**: a private message sent directly to two or more other users rather than through a stream
+ * **@mention**: see **mention**.
+ * **/me**: see **me**.
+ * **customization**: changing Zulip's settings so that it behaves in ways you prefer.
+ * **emoji**: small image used in chat messages, for terse non-verbal expression or cuteness; loanword into English from Japanese 絵文字.
+ * **filter**: one of the options for viewing different kinds of messages, listed in the upper left corner of the window: Home, Private messages, Starred messages, @-mentions. Also called a "view".
+ * **group PM**: a private message sent directly to two or more other users rather than through a stream.
  * **home**: a "view" in which all topics in all subscribed streams are visible, in order by date and time of posting
- * **me**: a reference to one's own name, formatted as `/me`
- * **mention**: notifying another user of a message, by putting their name into the body of message after an `@`-sign
- * **message table**: is the stream of messages in the middle pane of a fully open browser window
- * **muting a stream**: turning off a stream while remaining subscribed to it
- * **narrow**: to alter the view so that only a single stream, topic, or private-message history is shown
- * **pinning**: a stream: moving a particular stream to the top of the list of streams
- * **PM**: private message — a message sent directly to one or more other users rather than through a stream
- * **private stream**: a stream of that can be joined only by invitation
- * **realm**: a single Zulip account, associated with a particular organization
- * **stream**: a channel of topics expected to fall within a certain scope of content
- * **subscribing to a stream**: registering to receive all messages in a particular stream
- * **topic**: a distinct thread of conversation within a stram
- * **unsubscribing from a stream**: excluding oneself from receiving any messages in a particular stream
- * **view**: one of the options for viewing different kinds of messages, listed in the upper left corner of the window: Home, Private messages, Starred messages, @-mentions. Also called a "view"
+ * **me**: a reference to one's own name, formatted as `/me`.
+ * **mention**: notifying another user of a message, by putting their name into the body of message after an `@`-sign.
+ * **message table**: is the stream of messages in the middle pane of a fully open browser window.
+ * **muting a stream**: turning off a stream while remaining subscribed to it.
+ * **narrow**: to alter the view so that only a single stream, topic, or private-message history is shown.
+ * **pinning**: a stream: moving a particular stream to the top of the list of streams.
+ * **PM**: private message — a message sent directly to one or more other users rather than through a stream.
+ * **private stream**: a stream of that can be joined only by invitation.
+ * **realm**: a single Zulip account, associated with a particular organization.
+ * **stream**: a channel of topics expected to fall within a certain scope of content.
+ * **subscribing to a stream**: registering to receive all messages in a particular stream.
+ * **topic**: a distinct thread of conversation within a stream.
+ * **unsubscribing from a stream**: excluding oneself from receiving any messages in a particular stream.
+ * **view**: one of the options for viewing different kinds of messages, listed in the upper left corner of the window: Home, Private messages, Starred messages, @-mentions. Also called a "filter".
 
 **[Go back to “Terminology”](#special-terms-used-with-zulip)** | **[Go back to “Table of contents”](#table-of-contents)**
 
